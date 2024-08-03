@@ -3,7 +3,7 @@
 
 - 📚 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/helenzina](https://github.com/helenzina)
+- 👨‍💻 All of my projects are available on [https://github.com/helenzina](https://github.com/helenzina)
 
 - 📫 How to reach me **helenz1@windowslive.com**
 
