@@ -5,7 +5,7 @@
 
 - 👨‍💻 Explore my projects and contributions on my [GitHub](https://github.com/helenzina) profile.
 
-- 📫 Feel free to reach out to me at **helenz1@windowslive.com** for collaborations or inquiries.
+- 📫 Feel free to reach out to me at **helen.zina@yahoo.com** for collaborations or inquiries.
 
 - 🔭 My passions include Java, Web Development, and Data Analysis.
 
